@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning and working on Python
 - 💞️ I’m looking to collaborate with my juniors to help them with programming.
-- 📫 You can reach me through my email --> sparshagarwal0106@gmail.com
+- 📫 You can reach me through my email --> 5p4r584g4rw4l0106@gmail.com
 
 
 <!---
